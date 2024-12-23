@@ -16,4 +16,5 @@ fun main() {
         // Выводим только текст цитаты
         println("${citation.text()})\n\t")
     }
+
 }
